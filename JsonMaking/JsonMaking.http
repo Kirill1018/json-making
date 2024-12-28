@@ -1,0 +1,6 @@
+@JsonMaking_HostAddress = http://localhost:5249
+
+GET {{JsonMaking_HostAddress}}/product/all
+Accept: application/json
+
+###
